@@ -64,10 +64,6 @@ public class Solution {
                 }
             }
         }
-//        for(Character ch : chars) {
-//            result.append(String
-//                    .format("%s", Integer.toBinaryString(ch)));
-//        }
         return result.toString();
     }
 }
